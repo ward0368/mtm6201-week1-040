@@ -1,1 +1,1 @@
-howdy howdy, this is a test.
+This is my week 1 repository.
